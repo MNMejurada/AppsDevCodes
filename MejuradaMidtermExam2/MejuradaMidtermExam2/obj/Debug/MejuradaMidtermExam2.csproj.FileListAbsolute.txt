@@ -1,0 +1,10 @@
+C:\Users\Marco Nino\OneDrive\Desktop\CSharp\MejuradaMidtermExam2\MejuradaMidtermExam2\bin\Debug\MejuradaMidtermExam2.exe.config
+C:\Users\Marco Nino\OneDrive\Desktop\CSharp\MejuradaMidtermExam2\MejuradaMidtermExam2\bin\Debug\MejuradaMidtermExam2.exe
+C:\Users\Marco Nino\OneDrive\Desktop\CSharp\MejuradaMidtermExam2\MejuradaMidtermExam2\bin\Debug\MejuradaMidtermExam2.pdb
+C:\Users\Marco Nino\OneDrive\Desktop\CSharp\MejuradaMidtermExam2\MejuradaMidtermExam2\obj\Debug\MejuradaMidtermExam2.csproj.AssemblyReference.cache
+C:\Users\Marco Nino\OneDrive\Desktop\CSharp\MejuradaMidtermExam2\MejuradaMidtermExam2\obj\Debug\MejuradaMidtermExam2.Form1.resources
+C:\Users\Marco Nino\OneDrive\Desktop\CSharp\MejuradaMidtermExam2\MejuradaMidtermExam2\obj\Debug\MejuradaMidtermExam2.Properties.Resources.resources
+C:\Users\Marco Nino\OneDrive\Desktop\CSharp\MejuradaMidtermExam2\MejuradaMidtermExam2\obj\Debug\MejuradaMidtermExam2.csproj.GenerateResource.cache
+C:\Users\Marco Nino\OneDrive\Desktop\CSharp\MejuradaMidtermExam2\MejuradaMidtermExam2\obj\Debug\MejuradaMidtermExam2.csproj.CoreCompileInputs.cache
+C:\Users\Marco Nino\OneDrive\Desktop\CSharp\MejuradaMidtermExam2\MejuradaMidtermExam2\obj\Debug\MejuradaMidtermExam2.exe
+C:\Users\Marco Nino\OneDrive\Desktop\CSharp\MejuradaMidtermExam2\MejuradaMidtermExam2\obj\Debug\MejuradaMidtermExam2.pdb
