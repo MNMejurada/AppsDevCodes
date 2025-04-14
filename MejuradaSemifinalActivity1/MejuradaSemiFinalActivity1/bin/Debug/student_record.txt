@@ -1,0 +1,57 @@
+ID Number: 123456789
+First Name: Mike
+Last Name: Garcia
+Middle Name: m
+Course: Boxing
+Year Level: 7
+Birthday: Tuesday, 2 December 2003
+ID Number: 23780315
+First Name: Marco Nino
+Last Name: Mejurada
+Middle Name: Alison
+Course: BSIT
+Year Level: 2
+Birthday: Friday, 26 December 2003
+ID Number: 23780315
+First Name: Marco Nino
+Last Name: Mejurada
+Middle Name: Alison
+Course: BSIT
+Year Level: 2
+Birthday: Friday, 26 December 2003
+ID Number: 23780315
+First Name: Marco Nino
+Last Name: Mejurada
+Middle Name: Alison
+Course: BSIT
+Year Level: 2
+Birthday: Friday, 26 December 2003
+_______________________________________
+
+ID Number: 23780315
+First Name: Marco Nino
+Last Name: Mejurada
+Middle Name: Alison
+Course: BSIT
+Year Level: 2
+Birthday: Friday, 26 December 2003
+_______________________________________
+
+ID Number: 2312345
+First Name: Marco Nino
+Last Name: Mejurada
+Middle Name: Alison
+Course: BSIT
+Year Level: 2
+Birthday: Friday, 26 December 2003
+_______________________________________
+
+ID Number: 123456789
+First Name: Mike
+Last Name: Garcia
+Middle Name: Nigga
+Course: Boxing
+Year Level: 7
+Birthday: Friday, 26 December 2003
+_______________________________________
+
